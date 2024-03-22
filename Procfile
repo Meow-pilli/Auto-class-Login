@@ -1,0 +1,1 @@
+worker: python auto_login_botu.py
